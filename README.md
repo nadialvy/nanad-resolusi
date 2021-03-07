@@ -1,2 +1,2 @@
 # nanad-resolusi
-repository untuk menyimpan rencana nadia kedepan
+repository untuk menyimpan rencana nadia kedepan.
